@@ -24,6 +24,6 @@ tap.test('It returns expected result', function (test) {
   var contact = require('./data/dsf.json')
   var expected = require('./data/unwrapped.json')
   var result = unwrapContact(contact)
-  tap.equal(result.toString(), expected.toString(), 'Contact unwrapped OK')
+  tap.equal(JSON.stringify(result), JSON.stringify(expected), 'Contact unwrapped OK')
   test.done()
 })
