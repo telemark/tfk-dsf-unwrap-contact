@@ -23,7 +23,7 @@ tap.throws(
 tap.test('It returns expected result', function (test) {
   var contact = require('./data/dsf.json')
   var expected = require('./data/unwrapped-skoleskyss.json')
-  contact.templatePath = 'lib/data/skoleskyss.json'
+  contact.templatePath = 'skoleskyss'
   var result = unwrapContact(contact)
   tap.equal(JSON.stringify(result), JSON.stringify(expected), 'Contact unwrapped OK')
   test.done()
