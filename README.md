@@ -102,7 +102,7 @@ var data = {
   }
 }
 
-data.templatePath = 'lib/data/skoleskyss.json' // To use another template
+data.templatePath = 'skoleskyss' // To use another template
 
 console.log(unwrapContact(data))
 

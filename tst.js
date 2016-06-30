@@ -74,5 +74,5 @@ var data = {
   }
 }
 
-data.templatePath = 'lib/data/skoleskyss.json'
+data.templatePath = 'skoleskyssa'
 console.log(unwrapContact(data))
