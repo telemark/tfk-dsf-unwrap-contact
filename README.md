@@ -2,6 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/telemark/tfk-dsf-unwrap-contact/badge.svg?branch=master&service=github)](https://coveralls.io/github/telemark/tfk-dsf-unwrap-contact?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-dsf-unwrap-contact
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-dsf-unwrap-contact.svg)](https://greenkeeper.io/)
 Unwraps contact from dsf
 
 ## Installation
