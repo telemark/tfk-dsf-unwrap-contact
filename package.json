@@ -1,6 +1,6 @@
 {
   "name": "tfk-dsf-unwrap-contact",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Unwraps contact information from dsf result",
   "license": "MIT",
   "author": {
