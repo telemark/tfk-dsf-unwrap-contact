@@ -33,7 +33,7 @@
     "url": "http://github.com/telemark/tfk-dsf-unwrap-contact/issues"
   },
   "devDependencies": {
-    "coveralls": "^2.11.6",
+    "coveralls": "^3.0.0",
     "standard": "^10.0.1",
     "tap": "^10.0.2"
   }
